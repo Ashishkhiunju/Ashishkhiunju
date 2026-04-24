@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Ashish Khiunju
 
-<!--
-**Ashishkhiunju/Ashishkhiunju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Laravel & React Developer  
+🌍 Based in Nepal  
+🚀 Passionate about building web applications  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Laravel (PHP)
+- React / Redux
+- JavaScript
+- MySQL
+- Wordpress
+- GitHub
+- Restful API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Travel Management System ( Laravel )
+- Account Management System ( Laravel )
+- Loan information system (React + Laravel API)
+- Custom WordPress Plugins
+
+## 📫 Contact
+- Email: ashishkhinju123456789@email.com
+- Website: https://ashishkhiunju.com.np/
