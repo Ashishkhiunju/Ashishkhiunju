@@ -7,8 +7,10 @@
 ## 🔧 Tech Stack
 - Laravel (PHP)
 - React / Redux
+- Nextjs / Prisma
 - JavaScript
 - MySQL
+- Postgres
 - Wordpress
 - GitHub
 - Restful API
